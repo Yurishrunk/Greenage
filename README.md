@@ -1,4 +1,3 @@
-#GreenAge
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
-            color: "green";
+            color: "#333";
             margin: 0;
             padding: 0;
         }
@@ -51,24 +50,21 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to the Green Age</h1>
+        <h1>Green Age</h1>
     </header>
     <div class="content">
         <h2>What is the Green Age?</h2>
-        <p>The "Green Age" refers to a new era of sustainable living, where people embrace eco-friendly practices to protect the environment. This movement focuses on reducing waste, conserving resources, and promoting green technologies to help mitigate the effects of climate change.</p>
-        <h2>Why is it Important?</h2>
-        <p>With growing concerns about global warming, deforestation, and pollution, the Green Age aims to reduce humanity's carbon footprint and shift toward renewable resources. By adopting green solutions, we can ensure a healthier planet for future generations.</p>
-        <h2>Key Practices of the Green Age</h2>
+        <p>The "Green Age" is an app made for awareness of environment to help beginners to plant their own green</p>
+        <h2>Who made the App</h2>
+        <p>An IT student of STI, Abel. He is a 3rd year student, his course and section is BSIT 3.2-C</p>
+        <h2>Why Use Green Age</h2>
         <ul>
-            <li>Recycling and waste management</li>
-            <li>Using renewable energy sources like solar and wind</li>
-            <li>Planting trees and supporting biodiversity</li>
-            <li>Supporting sustainable businesses and products</li>
-            <li>Adopting electric and eco-friendly transportation</li>
+            <li>to know more about plants</li>
+            <li>Help you realize the beauty of planting</li>
+            <li>Its calming to do</li>
+            <li>It support environment</li>
+            <li>You will experience stress free hobby</li>
         </ul>
     </div>
-    <footer>
-        <p>&copy; 2025 Green Age Movement. All rights reserved.</p>
-    </footer>
 </body>
 </html>
