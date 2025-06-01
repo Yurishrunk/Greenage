@@ -1,6 +1,5 @@
 <html>
 <head>
-    <title>Green Age Introduction</title>
 </head>
 <body>
     <header>
